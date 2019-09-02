@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mayaplication/static/css/main.594376e8.chunk.css",
+    "main.js": "/mayaplication/static/js/main.e25b44a6.chunk.js",
+    "main.js.map": "/mayaplication/static/js/main.e25b44a6.chunk.js.map",
+    "runtime~main.js": "/mayaplication/static/js/runtime~main.9cf91f2a.js",
+    "runtime~main.js.map": "/mayaplication/static/js/runtime~main.9cf91f2a.js.map",
+    "static/js/2.bd13b141.chunk.js": "/mayaplication/static/js/2.bd13b141.chunk.js",
+    "static/js/2.bd13b141.chunk.js.map": "/mayaplication/static/js/2.bd13b141.chunk.js.map",
+    "index.html": "/mayaplication/index.html",
+    "precache-manifest.46fea43527c90a9fc67b0f592b6153b6.js": "/mayaplication/precache-manifest.46fea43527c90a9fc67b0f592b6153b6.js",
+    "service-worker.js": "/mayaplication/service-worker.js",
+    "static/css/main.594376e8.chunk.css.map": "/mayaplication/static/css/main.594376e8.chunk.css.map"
+  }
+}
